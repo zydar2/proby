@@ -12,4 +12,5 @@ public class Main {
         System.out.println("Unused method");
     }
     //c1 - feature2
+    //jakieś zmiany na feature5
 }
