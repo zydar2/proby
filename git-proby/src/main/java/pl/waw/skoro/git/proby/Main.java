@@ -11,4 +11,5 @@ public class Main {
     private static void foo() {
         System.out.println("Unused method");
     }
+    //c1 - feature2
 }
